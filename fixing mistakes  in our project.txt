@@ -1,0 +1,14 @@
+fixing mistakes:
+
+1- split the entery of staff info,
+make each one of them in other cout and cin.
+ 
+2- create onther file to save the data of the employees info
+
+3- in display we didn't acknowledge the info listed:
+so :
+name	id	age	department 	position	salary	email	phone number 
+then, display the info
+
+4- check each of the info is it correct, e.g, check if the age entered by the user is digit or not, name is it char?
+
